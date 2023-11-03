@@ -1,4 +1,4 @@
-# One Piece Module for Particle Tracking
+1. # One Piece Module for Particle Tracking
 
 ## Model Description
 The presented module represents a sophisticated particle tracking model meticulously crafted for the micro-scale analysis of colloidal particles within complex porous media. This model excels in capturing colloids attached to medium grain surfaces under varying conditions, including both favorable and unfavorable scenarios.
