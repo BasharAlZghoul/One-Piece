@@ -1,10 +1,21 @@
 # One Piece Module for Particle Tracking
 
-This piece of art is a particle tracking model designed to track colloidal particles in complex porous media on the micro scale. This model is capable to capture the attached colloids on the medium grain surfaces under favorable and unfavorable conditions. Furthermore, it can calculate several quantities such as:
+# Model Description
+The presented module represents a sophisticated particle tracking model meticulously crafted for the micro-scale analysis of colloidal particles within intricate porous media. This model excels in capturing colloids adhering to medium grain surfaces under varying conditions, including both favorable and unfavorable scenarios.
 
-1. Attachment location (Retention Profile)
+Moreover, the module possesses the capability to compute several critical quantities, including but not limited to:
+
+1. Attachment Location (Retention Profile)
 2. Bulk Residence Time
-3. Near Surface Residence Time (the time that the colloid spent inside the near surface zone (200 nm from the grain surface) of the grain that this colloid attached on).
-4. The number of grains that a colloid interacted with prior attachment.
+3. Near Surface Residence Time (the duration a colloid spends within the near-surface zone, precisely 200 nm from the grain surface, to which it attaches)
+4. The Number of Grains Interacted with Prior to Attachment
 5. Breakthrough Curve
-6. attachment angle (relative to the front flow stagnation zone of the corresponding grain)
+6. Attachment Angle (relative to the front flow stagnation zone of the corresponding grain)
+
+This module, designed for particle tracking, serves as an invaluable tool for in-depth analyses of colloidal behavior within complex porous environments, offering a comprehensive suite of features for advanced research and understanding.
+
+
+
+
+
+
