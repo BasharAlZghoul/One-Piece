@@ -11,6 +11,7 @@ These files represent the velocity field in both the x and y directions. It is e
 ## D.txt 
 
 This input file serves to describe the geometry, encompassing information about the locations and sizes of grains.
+Note: This model can handle up to 3 different grain sizes within the geometry.
 
 ## xp.txt and yp.txt
 
