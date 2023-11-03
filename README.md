@@ -1,6 +1,6 @@
 # One Piece Module for Particle Tracking
 
-# Model Description
+## Model Description
 The presented module represents a sophisticated particle tracking model meticulously crafted for the micro-scale analysis of colloidal particles within complex porous media. This model excels in capturing colloids attached to medium grain surfaces under varying conditions, including both favorable and unfavorable scenarios.
 
 Moreover, the module possesses the capability to compute several critical quantities, including but not limited to:
@@ -16,11 +16,11 @@ This module, designed for particle tracking, serves as an invaluable tool for in
 
 
 
-# Model Inputs
+## Model Inputs
 
-## dkdkd
+### dkdkd
 
-# How to Compile and Run this Model
+## How to Compile and Run this Model
 
 This model is written in Parallel using MPI in Fortran to reduce computational time as much as possible. It can be compiled using any suitable compiler. 
 
