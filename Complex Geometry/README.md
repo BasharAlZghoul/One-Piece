@@ -51,7 +51,7 @@ column 8: NSRT on 3rd grain this colloid interacted with
 
 column 9: NSRT on 4th grain this colloid interacted with
 
-column 10: accumulativge NSRT on all garins this colloid interacted with
+column 10: accumulative NSRT on all garins this colloid interacted with
 
 column 19: The round number that this colloid attached at (since this model can be applied to periodic geometry, this value is important to compute the colloid traveled distance)
 
